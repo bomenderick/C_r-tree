@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/R-Tree.dir/rtree.cpp.o CMakeFiles/R-Tree.dir/main.cpp.o  -o R-Tree 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bomen/CLionProjects/R-Tree/main.cpp
+iostream
+-
+stdlib.h
+-
+rtree.h
+/home/bomen/CLionProjects/R-Tree/rtree.h
+ctype.h
+-
+
+/home/bomen/CLionProjects/R-Tree/rtree.h
+
